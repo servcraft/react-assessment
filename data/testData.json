@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "name": "Gill",
+            "age": 41,
+            "height": 150,
+            "weight": 61
+        },
+        {
+            "name": "Steve",
+            "age": 24,
+            "height": 183,
+            "weight": 83
+        },
+        {
+            "name": "Joe",
+            "age": 68,
+            "height": 169,
+            "weight": 75
+        },
+        {
+            "name": "Suzy",
+            "age": 13,
+            "height": 142,
+            "weight": 45
+        }
+    ]
+}
